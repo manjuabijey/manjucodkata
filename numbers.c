@@ -6,7 +6,7 @@ if(a=0)
 {
 printf("a is positive");
 }
-else if(a<0)
+elseif(a<0)
 {
 printf("a is negative");
 }

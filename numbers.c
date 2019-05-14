@@ -4,11 +4,11 @@ void main()
 int a;
 if(a=0)
 {
-printf("a is positive");
+printf("%d is positive",a);
 }
 elseif(a<0)
 {
-printf("a is negative");
+printf("%d is negative",a);
 }
 else
 {

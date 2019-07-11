@@ -1,5 +1,5 @@
-in=input()
-if in==in[::-1]:   
+i=input()
+if i==i[::-1]:   
     print("yes")
 else:
     print("no")
